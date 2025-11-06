@@ -1,2 +1,2 @@
 # POO-Barbershoop
-Barbershio software
+Barbershop software
