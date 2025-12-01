@@ -11,7 +11,7 @@ class Administrador:
 
     def cadastro_profissionais(self):
 
-        print() #editar
+         print (f"Cliente {self.nome} cadastrado.")
     
     def gerenciar_servico(self):
 
